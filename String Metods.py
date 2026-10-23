@@ -66,7 +66,7 @@ res3=res2.count("python")
 print(res3)
 
 
-Count_Vowels
+# Count_Vowels
 text = "Hello Python"
 res=text.lower()
 print(res)
@@ -79,7 +79,7 @@ def count_Vowels(res):
 
 print(count_Vowels(res))
 
-reverse a string
+# reverse a string
 
 text="hello"
 def reverse(text):
